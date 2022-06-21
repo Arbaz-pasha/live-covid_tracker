@@ -1,0 +1,58 @@
+
+section{
+    /* padding-top: 50px;  cntrl /*/
+    height: 100vh;
+    text-align: center;
+    background-color: black;
+    color: white;
+    
+}
+
+.container{
+    background-color: black;
+    font-family: fantasy;
+    justify-content: cover;
+	height: auto;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
+}
+
+P{
+    margin-top: 8%;
+    text-shadow: black 20px;
+    
+    
+}
+.card{
+    display:inline-block;
+    border-radius: 30px;
+    background-color:rgb(125, 59, 211);
+    height: 200px;
+    width: 400px;
+    margin: 20px;
+    /* text-decoration-line: underline; */
+    word-spacing: 20px;
+    
+    }
+
+
+.card_total {
+    justify-content: center;
+    font-size: 40px;   
+}
+
+span{
+    font-size:larger;
+    
+}
+
+.card_name
+{
+    font-family: fantasy;
+    font-size: larger;
+}
+
+.card:hover{
+	transform: scale(1.1);
+}
+
+
